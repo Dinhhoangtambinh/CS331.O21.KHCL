@@ -1,4 +1,6 @@
-### Hi there 👋
+### Computer Vision 
+
+Môn học: Thị giác Máy tính Nâng cao
 
 <!--
 **Dinhhoangtambinh/Dinhhoangtambinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
